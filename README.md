@@ -1,4 +1,4 @@
-## Hola! ![image](https://github.com/karenprr/karenprr/assets/110915036/ae32604d-4025-4a1b-809f-c732c518aa38)
+Hola! ![image](https://github.com/karenprr/karenprr/assets/110915036/ae32604d-4025-4a1b-809f-c732c518aa38)
 
 
 
