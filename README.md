@@ -1,3 +1,27 @@
-Hola! ![image](https://github.com/karenprr/karenprr/assets/110915036/ae32604d-4025-4a1b-809f-c732c518aa38)
-
-[![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenprr&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=radical)](https://github.com/karenprr/github-readme-stats)
+<html lang="en">
+    <head>
+    </head>
+         <script>
+            // Toggles visibility of greeting
+            function blink()
+            {
+                let body = document.querySelector('body');
+                if (body.style.visibility == 'hidden')
+                {
+                    body.style.visibility = 'visible';
+                }
+                else
+                {
+                    body.style.visibility = 'hidden';
+                }
+            }
+            window.setInterval(blink, 500);
+        </script>
+  <title>blink</title>
+    </head>
+  <body>
+        Hola!
+        [![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenprr&hide=stars,commits,prs,issues,contribs&show_icons=true&theme=radical)] 
+        (https://github.com/karenprr/github-readme-stats)
+  </body>
+</html>
