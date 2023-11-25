@@ -25,7 +25,3 @@
 </div>
 
 [![karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenprr)](https://github.com/karenprr/github-readme-stats_?&count_private=true_&langs_count=)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenprr)](https://github.com/karenprr/github-readme-stats)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=karenprr&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
