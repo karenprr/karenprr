@@ -1,5 +1,5 @@
 <h1 align="center">Hola! <span style='font-size:100px;'>&#128123;</span></h1>
-
+<br>
 <div> 
   <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
