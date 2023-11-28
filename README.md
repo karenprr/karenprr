@@ -31,6 +31,7 @@
   <img alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />    
 </div>
 <br>
+<hr>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karenprr&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
