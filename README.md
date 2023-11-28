@@ -1,5 +1,13 @@
 <h1 align="center">Hola! <span style='font-size:100px;'>&#128123;</span></h1>
 
+<div> 
+  <p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Web%20Developer%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=23" /></a>
+</p>
+</div>
+
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
   <p style="font-size:800px">&#128187;</p>
@@ -24,5 +32,5 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karenprr&theme=blux&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karenprr&theme=transparent&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
