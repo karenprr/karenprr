@@ -6,7 +6,6 @@
 <h2>Bienvenidos a mi github!</h2>
 </div>
 
-
 <div align="center">
   <h3>  👨‍💻 Languages and tools: </h3>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" witdh="50" height="50" >
@@ -22,4 +21,8 @@
   </h3>
   <a href="https://www.linkedin.com/in/karen-p%C3%A9rez-a58b83207/">
   <img alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />    
+</div>
+<br>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karenprr&theme=blux&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
 </div>
