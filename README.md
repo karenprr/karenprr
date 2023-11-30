@@ -1,4 +1,4 @@
-<h1 align="center">Hola, nombre es karen! <span style='font-size:100px;'>&#128123;</span></h1>
+<h1 align="center">Hola, mi nombre es karen! <span style='font-size:100px;'>&#128123;</span></h1>
 <br>
 <div> 
   <p align="center">
