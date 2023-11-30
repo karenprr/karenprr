@@ -1,5 +1,10 @@
-<h1 align="center">Hola, mi nombre es karen! <span style='font-size:100px;'>&#128123;</span></h1>
-<br>
+<h1 align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hola%20Mi%20Nombre%20Es%20Karen!%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=23" /></a>
+</h1>
+
+
 <div> 
   <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
