@@ -36,3 +36,6 @@
   <img alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />    
 </div>
 <br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Have%20a%20Great%20Day%20!%20&font=Fira%20Code&center=true&width=440&height=45&color=755DFF&vCenter=true&pause=1000&size=23" /></a>
+</div>
