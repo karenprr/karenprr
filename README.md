@@ -6,7 +6,7 @@
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-  <p style="font-size:800px">&#128187;</p>
+  <p style="font-size:800px"></p>
 <h2>Bienvenidos a mi github!</h2>
 </div>
 
