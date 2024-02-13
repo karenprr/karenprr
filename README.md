@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hola%20Mi%20Nombre%20Es%20Karen:)%20&font=Fira%20Code&center=true&width=440&height=45&color=755DFF&vCenter=true&pause=1000&size=23" /></a>
 </h1>
 
-
-<div> 
-</div>
-
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
   <p style="font-size:800px">&#128187;</p>
